@@ -1,8 +1,8 @@
 # Projeto de Jogo de Cartas em Realidade Aumentada (AR)
 
 ## Integrantes
-- Anderson Hideki Suzuki — RA:22.01809-3
-- Pedro Camasmie Kobayashi — RA:22.10121-7
+- Anderson Hideki Suzuki
+- Pedro Camasmie Kobayashi
 
 ## Descrição do Projeto
 
